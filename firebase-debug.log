@@ -1,0 +1,14 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      /home/jaime/.nvm/versions/node/v4.2.1/bin/node /home/jaime/.nvm/versions/node/v4.2.1/bin/firebase serve
+[debug] CLI Version:  3.1.0
+[debug] Platform:     linux
+[debug] Node Version: v4.2.1
+[debug] Time:         Tue Jan 03 2017 11:13:48 GMT-0600 (CST)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: /home/jaime/develop/pw
+[info] Public Directory: site
+[info] 
+[info] Server listening at: http://localhost:5000
