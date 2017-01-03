@@ -1,0 +1,26 @@
+{
+  "database": {
+    "rules": "database.rules.json"
+  },
+  "hosting": {
+    "public": "site",
+    "rewrites": [
+    	{
+	    	"source": "/inicio",
+	    	"destination": "/index.html"
+	    },
+	    {
+	    	"source": "/servicios",
+	    	"destination": "/index.html"
+	    },
+	    {
+	    	"source": "/nosotros",
+	    	"destination": "/index.html"
+	    },
+	    {
+	    	"source": "/contacto",
+	    	"destination": "/index.html"
+	    }
+    ]
+  }
+}
