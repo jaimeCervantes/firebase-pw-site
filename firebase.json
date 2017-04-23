@@ -10,7 +10,11 @@
 	    	"destination": "/index.html"
 	    },
 	    {
-	    	"source": "/servicios",
+        "source": "/servicios",
+        "destination": "/index.html"
+      },
+      {
+	    	"source": "/proyectos",
 	    	"destination": "/index.html"
 	    },
 	    {
